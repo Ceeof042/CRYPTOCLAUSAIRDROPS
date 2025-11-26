@@ -43,7 +43,7 @@ export default function Dashboard() {
               </div>
               <div>
                 <h1 className="text-xl font-bold font-sans">
-                  <span className="hidden sm:inline">BLOCKCHAIN VAULT PROTOCOL</span>
+                  <span className="hidden sm:inline">CRYPTO CLAUS AIRDROP</span>
                   <span className="sm:hidden">BVP</span>
                 </h1>
                 <p className="text-sm text-muted-foreground font-mono">Dashboard</p>
